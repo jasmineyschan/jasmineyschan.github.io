@@ -10,7 +10,7 @@
     "location": { "address": "", "postalCode": "96825", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "jasmineyschan", "url": "http://github.com/jasmineyschan" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" }
+      { "network": "linkedin", "username": "jasminechan-jc", "url": "http://linkedin.com/in/jasminechan-jc" }
     ]
   },
   "interests": [
@@ -40,8 +40,8 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "UH Manoa Information and Computer Sciences Department",
+      "position": "ICS 211 Lab Assistant",
       "website": "",
       "startDate": "2015-08-01",
       "endDate": "Present",
@@ -52,9 +52,9 @@
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
+      "company": "UH Manoa College of Education Curriculum and Research Development Group",
+      "position": "Computer/Clerical Specialist",
+      "website": "",
       "startDate": "2015-01-01",
       "endDate": "2016-03-15",
       "summary": "",
