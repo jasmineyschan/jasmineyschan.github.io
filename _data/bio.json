@@ -20,19 +20,19 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "TypeScript", "HTML", "CSS" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii at Manoa, Honolulu, HI",
       "area": "Information and Computer Sciences",
-      "studyType": "B.S.",
-      "startDate": "August 2024",
+      "studyType": "B.A.",
+      "startDate": "Aug 2024",
       "endDate": "Present",
       "courses": [
       ]
