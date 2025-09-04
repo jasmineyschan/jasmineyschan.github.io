@@ -4,7 +4,7 @@
     "label": "Student",
     "picture": "https://github.com/jasmineyschan.png",
     "email": "jysc@hawaii.edu",
-    "phone": "808-308-7283",
+    "phone": "",
     "website": "https://jasmineyschan.github.io",
     "summary": "I am studying for a B.A. in Information and Computer Sciences at the University of Hawaii at Manoa. I expect to graduate in May 2028.",
     "location": { "address": "", "postalCode": "96825", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
@@ -20,7 +20,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "TypeScript", "HTML", "CSS" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "TypeScript", "HTML" ]
     },
     {
       "name": "Toolsets/OS",
@@ -32,7 +32,7 @@
       "institution": "University of Hawaii at Manoa, Honolulu, HI",
       "area": "Information and Computer Sciences",
       "studyType": "B.A.",
-      "startDate": "Aug 2024",
+      "startDate": "2024",
       "endDate": "Present",
       "courses": [
       ]
@@ -43,24 +43,38 @@
       "company": "UH Manoa Information and Computer Sciences Department",
       "position": "ICS 211 Lab Assistant",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2025-08-25",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Assisting students in ICS 211",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Answering questions and helping students on assignments",
+        "Holding Learning Emporium hours for additional assistance outside of class"
       ]
     },
     {
-      "company": "UH Manoa College of Education Curriculum and Research Development Group",
+      "company": "UH Manoa Curriculum and Research Development Group",
       "position": "Computer/Clerical Specialist",
       "website": "",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "startDate": "2025-01-15",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Provide computer assistance, including basic troubleshooting with software and printers",
+        "Input and maintain digital and physical records through data entry and file organization",
+        "Use spreadsheets to organize, filter, and sort school and survey data based on specific criteria",
+        "Assist with the preparation, distribution, and collection of surveys sent to public schools"
+      ]
+    }
+    {
+      "company": "CVS Pharmacy",
+      "position": "Pharmacy Technician",
+      "startDate": "2023-12-14",
+      "endDate": "2025-02-01",
+      "highlights": [
+        "Navigated pharmacy software to accurately input, process, and manage prescriptions",
+        "Applied problem solving skills to resolve insurance rejections and troubleshoot coverage issues",
+        "Provided exceptional customer service in a fast-paced pharmacy environment",
+        "Organized drugs and products to optimize inventory management and accessibility"
       ]
     }
   ],
@@ -93,16 +107,16 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Provost Achievement Scholarship",
+      "date": "2024",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Selective, higher-tier merit scholarship awarded to recognize academic excellence and community impact among incoming freshmen."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Manoa Academic Merit Scholarship",
+      "date": "2023",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Received the highest scholarship award based on excellent high school academic performance and maintaining a GPA of 3.6 or higher."
     }
   ],
   "references": [
