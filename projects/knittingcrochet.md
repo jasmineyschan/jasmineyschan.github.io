@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/knittingcrochet/knittingcrochet-thumbnail.jpg
+image: img/knittingcrochet/knittingcrochet-square.jpg
 title: "Mobile App for Knitting and Crochet"
 date: 2024
 published: true
