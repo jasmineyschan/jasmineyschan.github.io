@@ -11,9 +11,9 @@ labels:
 summary: "A short animation I created using Adobe Illustrator and Adobe After Effects."
 ---
 
-<br>
-<iframe src="https://drive.google.com/file/d/1p6rcbyyqHj5okYrmDk5hFURohRnbGtYJ/preview" align="center" width="640" height="360" allow="autoplay"></iframe>
-<br>
+<div "text-align: center;" >
+  <iframe src="https://drive.google.com/file/d/1p6rcbyyqHj5okYrmDk5hFURohRnbGtYJ/preview" align="center" width="640" height="360" allow="autoplay"></iframe>
+</div>
 
 A Dream Come True is a short animation playing on the idea of humans being the "aliens" to extraterrestrial life. 
 
