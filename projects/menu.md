@@ -2,12 +2,12 @@
 layout: project
 type: project
 image: img/micromouse/micromouse-square.jpg
-title: "Identity Comic Panel"
+title: "Menu Redesign"
 date: 2023
 published: true
 labels:
-  - Art
-summary: "A one-page comic-style panel I drew for my english class."
+  - Design
+summary: "."
 ---
 
 <div class="text-center p-4">
