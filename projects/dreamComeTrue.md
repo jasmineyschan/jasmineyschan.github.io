@@ -29,7 +29,7 @@ It's a dream come true. Aliens are real.
 <hr>
 <br>
 
-## The Storyboard
+### The Storyboard
 
 <img class="img-fluid" src="../img/dream/dream-storyboard.png">
 
