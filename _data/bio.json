@@ -10,7 +10,7 @@
     "location": { "address": "", "postalCode": "96825", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "jasmineyschan", "url": "http://github.com/jasmineyschan" },
-      { "network": "linkedin", "username": "jasminechan-jc", "url": "http://linkedin.com/in/jasminechan-jc" }
+      { "network": "linkedin", "username": "jysc", "url": "http://linkedin.com/in/jysc" }
     ]
   },
   "interests": [
@@ -76,45 +76,28 @@
         "Provided exceptional customer service in a fast-paced pharmacy environment",
         "Organized drugs and products to optimize inventory management and accessibility"
       ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "company": "Jewel or Juice",
+      "position": "Team Member",
+      "startDate": "2021-07",
+      "endDate": "2024-03",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Delivered high-quality customer service by fulfilling smoothie orders and ensuring satisfaction",
+        "Maintained a clean work environment by washing dishes and regularly sweeping/mopping"
       ]
     }
   ],
   "awards": [
     {
       "title": "Provost Achievement Scholarship",
-      "date": "2024",
+      "date": "2024-Present",
       "awarder": "University of Hawaii at Manoa",
       "summary": "Selective, higher-tier merit scholarship awarded to recognize academic excellence and community impact among incoming freshmen."
     },
     {
       "title": "Manoa Academic Merit Scholarship",
-      "date": "2023",
+      "date": "2024-Present",
       "awarder": "University of Hawaii at Manoa",
       "summary": "Received the highest scholarship award based on excellent high school academic performance and maintaining a GPA of 3.6 or higher."
     }
