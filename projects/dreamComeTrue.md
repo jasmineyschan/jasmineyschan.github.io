@@ -13,7 +13,7 @@ summary: "A short animation I created using Adobe Illustrator and Adobe After Ef
 
 <br>
 <div align="center" >
-  <iframe src="https://drive.google.com/file/d/1p6rcbyyqHj5okYrmDk5hFURohRnbGtYJ/preview" align="center" width="640" height="360" allow="autoplay"></iframe>
+  <iframe src="https://drive.google.com/file/d/1p6rcbyyqHj5okYrmDk5hFURohRnbGtYJ/preview" align="center" width="854" height="480" allow="autoplay"></iframe>
 </div>
 <br>
 
@@ -25,6 +25,7 @@ Feeling down from all the bullying, the main character heads to bed one day, whe
 
 It's a dream come true. Aliens are real. 
 
+<br>
 <hr>
 
 <img class="img-fluid" src="../img/dream/dream-storyboard.png">
