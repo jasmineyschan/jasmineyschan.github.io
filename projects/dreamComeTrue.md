@@ -11,7 +11,7 @@ labels:
 summary: "A short animation I created using Adobe Illustrator and Adobe After Effects."
 ---
 
-<div "text-align: center;" >
+<div align="center" >
   <iframe src="https://drive.google.com/file/d/1p6rcbyyqHj5okYrmDk5hFURohRnbGtYJ/preview" align="center" width="640" height="360" allow="autoplay"></iframe>
 </div>
 
