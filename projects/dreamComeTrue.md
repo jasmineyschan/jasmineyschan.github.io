@@ -13,7 +13,7 @@ summary: "A short animation I created using Adobe Illustrator and Adobe After Ef
 
 
 <div style="text-align: center;">
-  <iframe src="https://drive.google.com/file/d/1p6rcbyyqHj5okYrmDk5hFURohRnbGtYJ/preview" width="1280" height="720" allow="autoplay"></iframe>
+  <iframe src="https://drive.google.com/file/d/1p6rcbyyqHj5okYrmDk5hFURohRnbGtYJ/preview" width="640" height="480" allow="autoplay"></iframe>
 </div>
 
 
