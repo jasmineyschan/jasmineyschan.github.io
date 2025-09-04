@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/dream/dream-thumbnail.png
 title: "A Dream Come True"
 date: 2022
 published: true
