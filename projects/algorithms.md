@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/algorithms/algorithms-square.jpg
 title: "Knitting Algorithms"
 date: 2023
 published: true
@@ -28,19 +28,19 @@ R3: (sc, inc)×6 [18]
 R4: sc, (inc, 2 sc)×5, sc [24]
 R5: (3 sc, inc)×6 [30]
 R6: 2 sc, (inc, 4 sc)×5, 2 sc [36]
-R7-R12: 36 sc [36]
-R13: 2 sc, (dec, 4 sc)×5, 2 sc [30]
-R14: (3 sc, dec)×6 [24]
-R15: sc, (dec, sc)×5, sc [18]
+R7-R13: 36 sc [36]
+R14: 2 sc, (dec, 4 sc)×5, 2 sc [30]
+R15: (3 sc, dec)×6 [24]
+R16: sc, (dec, sc)×5, sc [18]
 Fill sphere with stuffing
-R16: (sc, dec)×6 [12]
-R17: (dec)×6 [6]
+R17: (sc, dec)×6 [12]
+R18: (dec)×6 [6]
 Fasten off
 </span>
 <br>
 
 Do you see the pattern in this pattern? Looking closely, you might notice that the even numbered rows appear unnecessarily complicated. For instance, in R4, why not just write <span style="font-family: monospace">(2 sc, inc)×6</span> ? While it is up to preference and how you want your sphere to look, splitting the single crochets every other row will make the seam line of the sphere less visible. 
 
-When I first started learning how to read a pattern, I immediately noticed the parallel to algorithms. The pattern above is just the beginning of what crochet patterns can entail. Creating more complex designs will result in a more complex pattern. 
+When I first started learning how to read a pattern, I immediately noticed the parallel to algorithms. The pattern above is just the beginning of what crochet patterns can entail. Creating more complex designs will result in a more complex patterns. 
 
 There are so many factors that go into knitting and crochet such as gauge, yarn weight, and needle/hook size. 

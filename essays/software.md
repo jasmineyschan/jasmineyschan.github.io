@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "e"
+title: ""
 # All dates must be YYYY-MM-DD format!
 date: 2025-09-04
 published: true
