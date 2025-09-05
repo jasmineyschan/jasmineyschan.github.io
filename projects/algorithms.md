@@ -15,6 +15,7 @@ Did you know that knitting and crocheting are very similar to coding? It seems u
 Here is a basic pattern for crocheting a sphere:
 
 <br>
+
 <span style="font-family: monospace">
 R - row
 sc - single crochet
@@ -37,6 +38,7 @@ R17: (sc, dec)×6 [12]
 R18: (dec)×6 [6]
 Fasten off
 </span>
+
 <br>
 
 Do you see the pattern in this pattern? Looking closely, you might notice that the even numbered rows appear unnecessarily complicated. For instance, in R4, why not just write <span style="font-family: monospace">(2 sc, inc)×6</span> ? While it is up to preference and how you want your sphere to look, splitting the single crochets every other row will make the seam line of the sphere less visible. 
