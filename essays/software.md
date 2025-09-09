@@ -1,19 +1,19 @@
 ---
 layout: essay
 type: essay
-title: ""
+title: "Something from Nothing"
 # All dates must be YYYY-MM-DD format!
-date: 2025-09-04
+date: 2025-09-09
 published: true
 labels:
   - Software Engineering
   - Learning
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
+Software is an invaluable tool embedded in so many parts of our lives. It can be found everywhere, from the most obvious places, such as your phone and computer, to less obvious ones like your microwave or your stove. Software is what enabled me to write this essay and publish it online for you to see! The idea that you can start from a blank slate and develop a complex product that enables productivity, creativity, and further innovation lends to endless possibilities.
 
-Ever since I first grasped a paintbrush, I’ve always been eager to learn about design. Design is such a complex concept. For example, when looking at abstract art, its meaning can be completely different for different people. It motivates a person to think thoughtfully and has the potential to submerge them in a sea of imagination. It’s that special relationship between the viewer and the art that makes something as technical as software engineering interesting to me.
+Throughout my life, I have always been drawn to the idea of creating something. If I had to pinpoint a beginning, I would say this stemmed from my love of reading. As a child, being able to get lost in a bunch of text printed onto a sheet of paper amazed me; I, too, wanted to design my own little world that could make someone forget about the real one. This has continued to be a pattern throughout my life as I discovered skills such as drawing, crocheting, and sewing. While I’m not a pro at all of these hobbies, I can’t say I’m terrible at them. The motivation to create something has always pushed me to learn more and improve. 
 
-I never used to think that design and technology went hand in hand.  Thus, learning about software engineering and the role of design has been incredibly interesting to me. Design, implementation, and management are just some of the many things I wish to learn more about. Good art, in a way, makes a person question it. They become joined in the idea of visualization – where captivation meets inspiration.
+The fact that I'm able to take a software engineering course excites me as someone who grew up on the internet. As I continue in my learning, I aim to discover more about what it encompasses. Currently, my knowledge of software engineering is limited to websites. While I understand the basics of building a webpage using HTML and CSS, I hope to further develop my skills in JavaScript and TypeScript to take a simple website to the next level with interactive user interfaces. Having learned various programming languages in school and acquired the skills to create programs, I would like to gain more experience in applying these skills to creating applications. 
 
-I am now starting to take a Software Engineering class. I hope to learn a lot through the course, but I know it will be just the beginning of my journey. By the time I’m done with it, I hope I’ve learned enough to take the next step in my life as a developer. But until then, my fire will keep on burning.
+Although I have picked up many creative hobbies throughout my life, I fear that I’m notorious for leaving many projects unfinished. This is something I want to overcome in my software engineering course. After the semester is over, I want to continue utilizing the skills I learned to apply to my own personal project and truly create something from nothing, like I have always wanted to.
