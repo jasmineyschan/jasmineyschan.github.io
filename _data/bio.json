@@ -44,38 +44,40 @@
       "company": "UH Manoa Information and Computer Sciences Department",
       "position": "ICS 211 Learning Assistant",
       "website": "",
-      "startDate": "2025-08-25",
+      "startDate": "2025-08",
       "endDate": "Present",
       "summary": "Assisting students in ICS 211",
       "highlights": [
-        "Answering questions and helping students on assignments",
-        "Holding Learning Emporium hours for additional assistance outside of class"
+        "Assist students in ICS 211 lab with Java programming assignments by actively applying programming knowledge to understand students’ work and identify areas for improvement.",
+        "Provide constructive feedback and guide students in problem solving and debugging programs.",
+        "Promote a welcoming learning environment by encouraging students to ask questions, explain their thought processes, and engage in available Java programming resources.",
+        "Hold hours outside of class to offer additional one-on-one or group support to students."
       ]
     },
     {
       "company": "UH Manoa Curriculum and Research Development Group",
       "position": "Computer/Clerical Specialist",
       "website": "",
-      "startDate": "2025-01-15",
+      "startDate": "2025-01",
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Provide computer assistance, including basic troubleshooting with software and printers",
-        "Input and maintain digital and physical records through data entry and file organization",
-        "Use spreadsheets to organize, filter, and sort school and survey data based on specific criteria",
-        "Assist with the preparation, distribution, and collection of surveys sent to public schools"
+        "Provide computer assistance by troubleshooting software and printer issues.",
+        "Input and maintain both digital and physical records through data entry and file organization.",
+        "Utilize spreadsheets to efficiently organize, filter, and sort school and survey data based on specific criteria.",
+        "Apply technical writing skills to develop clear and concise manuals and documentation to support training and onboarding."
       ]
     },
     {
       "company": "CVS Pharmacy",
       "position": "Pharmacy Technician",
-      "startDate": "2023-12-14",
-      "endDate": "2025-02-01",
+      "startDate": "2023-12",
+      "endDate": "2025-02",
       "highlights": [
-        "Navigated pharmacy software to accurately input, process, and manage prescriptions",
-        "Applied problem solving skills to resolve insurance rejections and troubleshoot coverage issues",
-        "Provided exceptional customer service in a fast-paced pharmacy environment",
-        "Organized drugs and products to optimize inventory management and accessibility"
+        "Navigated pharmacy software to accurately input and process prescriptions while applying problem solving skills to resolve insurance rejections and troubleshoot coverage issues.",
+        "Maintained patient confidentiality in compliance with HIPAA regulations by limiting disclosure of patient information to approved contacts and safely disposing of sensitive documents.",
+        "Provided exceptional customer service in a fast-paced pharmacy environment.",
+        "Organized drugs and products to optimize inventory management and accessibility."
       ]
     }
   ],
