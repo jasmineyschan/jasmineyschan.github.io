@@ -21,7 +21,7 @@ There are many different websites and apps that aid in knitting and crocheting. 
 
 After the initial reasearch and planning for the project, I drew a simple layout of what I wanted to go into the app. 
 
-<img class="img-fluid" src="../img/knittingcrochet/knittingcrochet-applayout.png"> 
+<img class="img-fluid" src="../img/knittingcrochet/knittingcrochet-layout.png">
 
 <br>
 ### Building the App
