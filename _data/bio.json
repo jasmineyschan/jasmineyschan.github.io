@@ -7,7 +7,7 @@
     "phone": "",
     "website": "https://jasmineyschan.github.io",
     "summary": "I am studying for a B.A. in Information and Computer Sciences at the University of Hawaii at Manoa. I expect to graduate in May 2028.",
-    "location": { "address": "", "postalCode": "96825", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "jasmineyschan", "url": "http://github.com/jasmineyschan" },
       { "network": "linkedin", "username": "jysc", "url": "http://linkedin.com/in/jysc" }
@@ -76,16 +76,6 @@
         "Applied problem solving skills to resolve insurance rejections and troubleshoot coverage issues",
         "Provided exceptional customer service in a fast-paced pharmacy environment",
         "Organized drugs and products to optimize inventory management and accessibility"
-      ]
-    },
-    {
-      "company": "Jewel or Juice",
-      "position": "Team Member",
-      "startDate": "2021-07",
-      "endDate": "2024-03",
-      "highlights": [
-        "Delivered high-quality customer service by fulfilling smoothie orders and ensuring satisfaction",
-        "Maintained a clean work environment by washing dishes and regularly sweeping/mopping"
       ]
     }
   ],
