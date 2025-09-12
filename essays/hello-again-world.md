@@ -10,7 +10,7 @@ labels:
   - Learning
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="../img/helloworld/hello-world-image.png">
+<img width="400px" class="rounded float-start pe-4" src="../img/helloworld/hello-world-image.jpg">
 
 ### Java… Script? No, TypeScript
 I am once again learning a new language. When I first began programming, after the initial drag-and-drop block coding so many of us go through, the first language I learned was JavaScript. This was in a high school class that very briefly introduced programming through an online course containing tutorials and practice assignments. Looking back, this course barely touched the surface of JavaScript and was rather more of an introduction to basic coding. 
