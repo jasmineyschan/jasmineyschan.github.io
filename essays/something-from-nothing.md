@@ -10,7 +10,7 @@ labels:
   - Learning
 ---
 
-<img class="img-fluid" src="../img/something/book.jpg">
+<img width="700px" class="center" src="../img/something/book.jpg">
 
 Software is an invaluable tool embedded in so many parts of our lives. It can be found everywhere, from the most obvious places, such as your phone and computer, to less obvious ones like your microwave or your stove. Software is what enabled me to write this essay and publish it online for you to see! The idea that you can start from a blank slate and develop a complex product that enables productivity, creativity, and further innovation lends to endless possibilities.
 

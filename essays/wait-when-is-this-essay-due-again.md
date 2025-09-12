@@ -11,7 +11,7 @@ labels:
   - StackOverflow
 ---
 
-<img width="400px" class="rounded float-end pe-4" src="../img/smartquestion/question.jpg">
+<img width="300px" class="rounded float-end pe-4" src="../img/smartquestion/question.jpg">
 
 Throughout my life, I have asked and been asked many questions. It’s good to ask questions when you’re unsure of something; however, some questions simply don’t need to be asked. Even now, when I’m in college, I have had people my age or even older than me ask me questions as if Google doesn’t exist! While I am always happy to answer questions, I sometimes laugh to myself when a friend texts me, “Do you know when [insert assignment name] is due?” Do I look like the professor? It’s funny that some people will take the time to open their messages, type out a question, and wait for a response. Instead, they could use that time to open up the assignment online and check the due date. Often, I end up opening the assignment myself, checking the due date, and then responding to ensure that I give the right answer. Of course, this question is more acceptable in the case that someone casually asks it in person. 
 
