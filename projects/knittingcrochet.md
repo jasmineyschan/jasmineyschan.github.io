@@ -7,7 +7,7 @@ date: 2024
 published: true
 labels:
   - Mobile App
-summary: "A simple app I created to aid knitting and crochet project management for my STEM capstone project."
+summary: "A simple app I created to aid knitting and crochet project management for my STEM capstone project in high school."
 ---
 <br>
 ### Introduction
