@@ -18,7 +18,7 @@ When I ask the question, “What is a smart question?” I refer to the more tec
 Stack Overflow is a forum that a software engineer might turn to for help. As I continue my progress in learning software engineering, it’s important that I also understand how to ask a smart question. Searching through Stack Overflow, there are many examples of smart questions, one of which I analyze below:
 
 ### A Smart Question
->> A smart question I came across is from Mark Rogers, who asked:
+> > A smart question I came across is from Mark Rogers, who asked:
 
 >>["What does 'use strict' do in JavaScript, and what is the reasoning behind it?"](https://stackoverflow.com/questions/1335851/what-does-use-strict-do-in-javascript-and-what-is-the-reasoning-behind-it)
 
