@@ -59,4 +59,4 @@ Fasten off
 
 Do you see the pattern in this pattern? Looking closely, you might notice that the even numbered rows appear unnecessarily complicated. For instance, in R4, why not just write <span style="font-family: monospace">(2 sc, inc)×6</span> ? While it is up to preference and how you want your sphere to look, splitting the single crochets every other row will make the seam line of the sphere less visible. 
 
-When I first started learning how to read a pattern, I immediately noticed the parallel to algorithms. The pattern above is just the beginning of what crochet patterns can entail. Creating more complex designs will result in a more complex patterns. 
+When I first started learning how to read a pattern, I immediately noticed the parallel to algorithms. The pattern above is just the beginning of what crochet patterns can entail. Creating more complex designs will result in a more complex pattern. 

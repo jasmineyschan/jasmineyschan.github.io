@@ -11,6 +11,8 @@ labels:
 summary: "A C++ program I made for my ICS212 class that maintains a University Course Registration System."
 ---
 
+<br>
+
 In my ICS 212 class, one of my assignments was to design and implement a University Course Registration System C++ program using object-oriented programming concepts. This program is allows students to be added to the university system, the creation of courses, and registration for courses. 
 
 Here is some of the code I wrote for this program. This is the Course class that allows for the creation of a course:
@@ -26,7 +28,6 @@ public:
   Course(string code, string title, string instructor)
     : code(code), title(title), instructor(instructor), enrollment(0) {}
 
-  // getter methods
   string getCode() { return code; }
   string getTitle() { return title; }
   string getInstructor() { return instructor; }
@@ -38,15 +39,12 @@ public:
       return false;
 
     for (int i = 0; i < MAX_ENROLLMENT; i++) {
-      // check if student already registered
-      if (ids[i].compare(id) == 0)
+      if (ids[i].compare(id) == 0) // check if student already registered
         break;
 
-      // look for empty space to add student
-      if (ids[i].empty()) {
+      if (ids[i].empty()) { // look for empty space to add student
         ids[i] = id;
-        // update enrollment
-        enrollment++;
+        enrollment++; // update enrollment
         return true; // successful
       }
     }
@@ -57,14 +55,11 @@ public:
   bool removeStudent(string id) {
     for (int i = 0; i < MAX_ENROLLMENT; i++) {
       if (ids[i].compare(id) == 0) {
-        // remove student
-        for (int j = i; j < MAX_ENROLLMENT - 1; j++) {
+        for (int j = i; j < MAX_ENROLLMENT - 1; j++) { // remove student
           ids[j] = ids[j + 1];
         }
-        // edge case - clear last index
-        ids[MAX_ENROLLMENT - 1] = "";
-        // update enrollment
-        enrollment--;
+        ids[MAX_ENROLLMENT - 1] = ""; // edge case - clear last index
+        enrollment--; // update enrollment
         return true; // successful
       }
     }
