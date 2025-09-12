@@ -8,7 +8,7 @@ published: true
 labels:
   - C++
   - Programming
-summary: "A program I made in C++ that maintains a University Course Registration System for my ICS 212 class."
+summary: "A C++ program I made for my ICS212 class that maintains a University Course Registration System."
 ---
 
 In my ICS 212 class, one of my assignments was to design and implement a University Course Registration System C++ program using object-oriented programming concepts. This program is allows students to be added to the university system, the creation of courses, and registration for courses. 
