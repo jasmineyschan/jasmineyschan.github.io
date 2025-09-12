@@ -20,9 +20,7 @@ Stack Overflow is a forum that a software engineer might turn to for help. As I 
 ### A Smart Question
 A smart question I came across is from Mark Rogers, who asked:
 
-```
-["What does 'use strict' do in JavaScript, and what is the reasoning behind it?"](https://stackoverflow.com/questions/1335851/what-does-use-strict-do-in-javascript-and-what-is-the-reasoning-behind-it)
-```
+> ["What does 'use strict' do in JavaScript, and what is the reasoning behind it?"](https://stackoverflow.com/questions/1335851/what-does-use-strict-do-in-javascript-and-what-is-the-reasoning-behind-it)
 
 To start with, the title of his post clearly states what he wants to know, which is the function of “use strict” in JavaScript. Considering that I’m currently learning TypeScript, and I often see “use strict” in the JavaScript that TypeScript generates, I found this question interesting. Another thing to note is that the title of this post is searchable. If I ever wanted to know what “use strict” does in JavaScript, I could easily search that question up and find this thread. 
 
@@ -33,9 +31,7 @@ Stack Overflow strictly moderates the types of questions that can be posted, how
 
 This question is from user3027665, who made a post titled:
 
-```
-["C File Homework"](https://stackoverflow.com/questions/20574925/c-file-homework)
-```
+> ["C File Homework"](https://stackoverflow.com/questions/20574925/c-file-homework)
 
 Just from the title, you can tell that it may not be an appropriate post because it’s about homework. Even if the title did not contain the word “Homework,” it would still be a bad title since it tells you nothing about the user’s problem. 
 
