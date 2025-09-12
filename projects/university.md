@@ -11,6 +11,9 @@ labels:
 summary: "A C++ program I made for my ICS 212 class that implements a University Course Registration System."
 ---
 <br>
+
+<img width="300px" class="rounded float-start pe-4" src="../img/university/cpp.jpg">
+
 In my ICS 212 class, one of my assignments was to design and implement a University Course Registration System C++ program using object-oriented programming concepts. This program allows students to be added to the university system, courses to be created, and registration for courses. Some of the requirements included preventing duplicate course registrations and students, enforcing an enrollment limit for the courses, and validating input such as date format and numeric entries.
 
 The purpose of this assignment was to practice using C++. Previously, we had been learning how to use C. Unlike C, C++ is an object-oriented programming (OOP) language. Throughout my University Course Registration System, I implemented OOP concepts such as classes, encapsulation, and polymorphism. Going from C to C++ was not too difficult since I had experience with OOP in Java. Reflecting on this, I think I actually enjoyed using C++ more than C due to its similarity to Java.
