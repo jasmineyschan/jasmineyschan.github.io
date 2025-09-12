@@ -25,14 +25,10 @@ Feeling down from all the bullying, the main character heads to bed one day, whe
 
 It's a dream come true! Aliens *are* real. 
 
-<hr>
-
 ### Storyboarding
 The process of creating this animation started with brainstorming ideas about what to make. This was my original story concept:
 
-<pre>
-An alien watches a rocket launch on the television, excited because it loves space and rockets. That night, while the alien is asleep, a rocket lands outside its window. An astronaut comes and invites the alien aboard.
-</pre>
+*An alien watches a rocket launch on the television, excited because it loves space and rockets. That night, while the alien is asleep, a rocket lands outside its window. An astronaut comes and invites the alien aboard.*
 
 Watching the animation, you might notice that the concept evolved into a more developed story following the storytelling model with an exposition, rising action, climax, falling action, and a resolution. 
 

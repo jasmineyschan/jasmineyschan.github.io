@@ -8,14 +8,14 @@ published: true
 labels:
   - C++
   - Programming
-summary: "A C++ program I made for my ICS212 class that maintains a University Course Registration System."
+summary: "A C++ program I made for my ICS 212 class that maintains a University Course Registration System."
 ---
 
-<br>
+In my ICS 212 class, one of my assignments was to design and implement a University Course Registration System C++ program using object-oriented programming concepts. This program allows students to be added to the university system, courses to be created, and registration for courses. Some of the requirements included preventing duplicate course registrations and students, enforcing an enrollment limit for the courses, and validating input such as date format and numeric entries.
 
-In my ICS 212 class, one of my assignments was to design and implement a University Course Registration System C++ program using object-oriented programming concepts. This program is allows students to be added to the university system, the creation of courses, and registration for courses. 
+The purpose of this assignment was to practice using C++. Previously, we had been learning how to use C. Unlike C, C++ is an object-oriented programming language. Throughout this program, I implemented oop concepts such as classes, encapsulation, and polymorphism.
 
-Here is some of the code I wrote for this program. This is the Course class that allows for the creation of a course:
+Here is some of the code I wrote for this program. This is the Course class:
 
 ```cpp
 class Course {
