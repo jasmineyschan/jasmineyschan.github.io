@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Hello Again, World "
 # All dates must be YYYY-MM-DD format!
-date: 2015-09-11
+date: 2025-09-11
 published: true
 labels:
   - TypeScript
