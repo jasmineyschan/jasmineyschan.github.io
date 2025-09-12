@@ -1,0 +1,74 @@
+---
+layout: project
+type: project
+image: img/university/university.jpg
+title: "University Course Registration System"
+date: 2025
+published: true
+labels:
+  - C++
+  - Programming
+summary: "A program I made in C++ that maintains a University Course Registration System for my ICS 212 class."
+---
+
+In my ICS 212 class, one of my assignments was to design and implement a University Course Registration System C++ program using object-oriented programming concepts. This program is allows students to be added to the university system, the creation of courses, and registration for courses. 
+
+Here is some of the code I wrote for this program. This is the Course class that allows for the creation of a course:
+
+```cpp
+class Course {
+private:
+  string code, title, instructor, ids[MAX_ENROLLMENT];
+  int enrollment;
+
+public:
+  Course() {}
+  Course(string code, string title, string instructor)
+    : code(code), title(title), instructor(instructor), enrollment(0) {}
+
+  // getter methods
+  string getCode() { return code; }
+  string getTitle() { return title; }
+  string getInstructor() { return instructor; }
+  int getEnrollment() { return enrollment; }
+
+  // Register student - checks and update enrollment
+  bool registerStudent(string id) {
+    if (enrollment == MAX_ENROLLMENT) // check if course is full
+      return false;
+
+    for (int i = 0; i < MAX_ENROLLMENT; i++) {
+      // check if student already registered
+      if (ids[i].compare(id) == 0)
+        break;
+
+      // look for empty space to add student
+      if (ids[i].empty()) {
+        ids[i] = id;
+        // update enrollment
+        enrollment++;
+        return true; // successful
+      }
+    }
+    return false; // unsucessful
+  }
+
+  // Remove student - updates enrollment
+  bool removeStudent(string id) {
+    for (int i = 0; i < MAX_ENROLLMENT; i++) {
+      if (ids[i].compare(id) == 0) {
+        // remove student
+        for (int j = i; j < MAX_ENROLLMENT - 1; j++) {
+          ids[j] = ids[j + 1];
+        }
+        // edge case - clear last index
+        ids[MAX_ENROLLMENT - 1] = "";
+        // update enrollment
+        enrollment--;
+        return true; // successful
+      }
+    }
+    return false; // unsuccessful
+  }
+};
+```
