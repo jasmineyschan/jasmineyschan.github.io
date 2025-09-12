@@ -12,7 +12,7 @@ summary: "A C++ program I made for my ICS 212 class that implements a University
 ---
 <br>
 
-<img width="300px" class="rounded float-start pe-4" src="../img/university/cpp.png">
+<img width="280px" class="rounded float-start pe-4" src="../img/university/cpp.png">
 
 In my ICS 212 class, one of my assignments was to design and implement a University Course Registration System C++ program using object-oriented programming concepts. This program allows students to be added to the university system, courses to be created, and registration for courses. Some of the requirements included preventing duplicate course registrations and students, enforcing an enrollment limit for the courses, and validating input such as date format and numeric entries.
 
@@ -20,6 +20,7 @@ The purpose of this assignment was to practice using C++. Previously, we had bee
 
 From this assignment, I was able to get more comfortable with switching from C to C++. I also reinforced my knowledge of OOP concepts. Another takeaway from this project was learning how to use pointers. This was a new concept that I had found challenging to wrap my mind around at first; however, after some practice, I was able to understand the function of pointers more. 
 
+<br>
 Here is some of the code I wrote. This is the Course class:
 
 ```cpp
