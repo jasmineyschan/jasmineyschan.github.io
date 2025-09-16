@@ -16,7 +16,7 @@ labels:
 
 <br>
 
-Software is an invaluable tool embedded in so many parts of our lives. It can be found everywhere, from the most obvious places, such as your phone and computer, to less obvious ones like your microwave or your stove. Software is what enabled me to write this essay and publish it online for you to see! The idea that you can start from a blank slate and develop a complex product that enables productivity, creativity, and further innovation lends to endless possibilities.
+Software is an invaluable tool embedded in so many parts of our lives. It can be found everywhere, from the most obvious places, such as your phone and computer, to less obvious ones like your microwave or your stove. Software is what enabled me to write this essay and publish it online for you to see! The idea that you can start from a blank slate and develop a complex product that enables productivity, creativity, and further innovation lends to endless possibilities. 
 
 Throughout my life, I have always been drawn to the idea of creating something. If I had to pinpoint a beginning, I would say this stemmed from my love of reading. As a child, being able to get lost in a bunch of text printed onto a sheet of paper amazed me; I, too, wanted to design my own little world that could make someone forget about the real one. This has continued to be a pattern throughout my life as I discovered skills such as drawing, crocheting, and sewing. While I’m not a pro at all of these hobbies, I can’t say I’m terrible at them. The motivation to create something has always pushed me to learn more and improve. 
 
