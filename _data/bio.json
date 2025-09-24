@@ -1,43 +1,39 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Jasmine Chan",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": "https://github.com/jasmineyschan.png",
+    "email": "jysc@hawaii.edu",
+    "phone": "",
+    "website": "https://jasmineyschan.github.io",
+    "summary": "I am studying for a B.A. in Information and Computer Sciences at the University of Hawaii at Manoa. I expect to graduate in May 2028.",
+    "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "jasmineyschan", "url": "http://github.com/jasmineyschan" },
+      { "network": "linkedin", "username": "jysc", "url": "http://linkedin.com/in/jysc" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Software Engineering" },
+    { "name": "Cyber Security" },
+    { "name": "Programming" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "TypeScript", "HTML" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "University of Hawaii at Manoa (UHM), Honolulu, HI",
+      "area": "Information and Computer Sciences",
+      "studyType": "B.A.",
+      "startDate": "2024",
       "endDate": "Present",
       "courses": [
       ]
@@ -45,69 +41,51 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "UHM Information & Computer Sciences Department",
+      "position": "Lab Assistant",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2025-08",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Assist students in ICS 211 lab with Java programming assignments.",
+        "Provide constructive feedback and guide students in problem solving and debugging programs."
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "UHM Curriculum & Research Development Group",
+      "position": "Computer/Clerical Specialist",
+      "website": "",
+      "startDate": "2025-01",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Provide computer assistance by troubleshooting software and printer issues.",
+        "Apply technical writing skills to develop clear and concise manuals and documentation to support training and onboarding."
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "company": "CVS Pharmacy",
+      "position": "Pharmacy Technician",
+      "startDate": "2023-12",
+      "endDate": "2025-02",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Navigated pharmacy software to accurately input and process prescriptions while applying problem solving skills to resolve insurance rejections and troubleshoot coverage issues."
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Provost Achievement Scholarship",
+      "date": "2024 - Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Selective, higher-tier merit scholarship awarded to recognize academic excellence and community impact among incoming freshmen."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Manoa Academic Merit Scholarship",
+      "date": "2024",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Received the highest scholarship award based on excellent high school academic performance and maintaining a GPA of 3.6 or higher."
     }
   ],
   "references": [
