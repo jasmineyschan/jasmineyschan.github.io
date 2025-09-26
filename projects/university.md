@@ -74,4 +74,4 @@ public:
 };
 ```
 
-Source: [University-Course-Registration-System](https://github.com/jasmineyschan/University-Course-Registration-System/tree/main)
+Source: [university-course-registration-system](https://github.com/jasmineyschan/university-course-registration-system/tree/main)

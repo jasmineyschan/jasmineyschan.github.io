@@ -9,8 +9,7 @@
     "summary": "I am studying for a B.A. in Information and Computer Sciences at the University of Hawaii at Manoa. I expect to graduate in May 2028.",
     "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "jasmineyschan", "url": "http://github.com/jasmineyschan" },
-      { "network": "linkedin", "username": "jysc", "url": "http://linkedin.com/in/jysc" }
+      { "network": "github", "username": "jasmineyschan", "url": "http://github.com/jasmineyschan" }
     ]
   },
   "interests": [
@@ -46,11 +45,7 @@
       "website": "",
       "startDate": "2025-08",
       "endDate": "Present",
-      "summary": "",
-      "highlights": [
-        "Assist students in ICS 211 lab with Java programming assignments.",
-        "Provide constructive feedback and guide students in problem solving and debugging programs."
-      ]
+      "summary": ""
     },
     {
       "company": "UHM Curriculum & Research Development Group",
@@ -58,34 +53,25 @@
       "website": "",
       "startDate": "2025-01",
       "endDate": "Present",
-      "summary": "",
-      "highlights": [
-        "Provide computer assistance by troubleshooting software and printer issues.",
-        "Apply technical writing skills to develop clear and concise manuals and documentation to support training and onboarding."
-      ]
+      "summary": ""
     },
     {
       "company": "CVS Pharmacy",
       "position": "Pharmacy Technician",
       "startDate": "2023-12",
-      "endDate": "2025-02",
-      "highlights": [
-        "Navigated pharmacy software to accurately input and process prescriptions while applying problem solving skills to resolve insurance rejections and troubleshoot coverage issues."
-      ]
+      "endDate": "2025-02"
     }
   ],
   "awards": [
     {
       "title": "Provost Achievement Scholarship",
       "date": "2024 - Present",
-      "awarder": "University of Hawaii at Manoa",
-      "summary": "Selective, higher-tier merit scholarship awarded to recognize academic excellence and community impact among incoming freshmen."
+      "awarder": "University of Hawaii at Manoa"
     },
     {
       "title": "Manoa Academic Merit Scholarship",
       "date": "2024",
-      "awarder": "University of Hawaii at Manoa",
-      "summary": "Received the highest scholarship award based on excellent high school academic performance and maintaining a GPA of 3.6 or higher."
+      "awarder": "University of Hawaii at Manoa"
     }
   ],
   "references": [
