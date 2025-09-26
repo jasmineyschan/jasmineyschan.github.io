@@ -29,49 +29,50 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii at Manoa (UHM), Honolulu, HI",
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
       "area": "Information and Computer Sciences",
       "studyType": "B.A.",
       "startDate": "2024",
-      "endDate": "Present",
-      "courses": [
-      ]
+      "endDate": "Present"
     }
   ],
   "work": [
     {
-      "company": "UHM Information & Computer Sciences Department",
+      "company": "UH Manoa ICS Department",
       "position": "Lab Assistant",
       "website": "",
       "startDate": "2025-08",
       "endDate": "Present",
-      "summary": ""
+      "summary": "Assist students in Java programming"
     },
     {
-      "company": "UHM Curriculum & Research Development Group",
+      "company": "UH Manoa CRDG",
       "position": "Computer/Clerical Specialist",
       "website": "",
       "startDate": "2025-01",
       "endDate": "Present",
-      "summary": ""
+      "summary": "Provide computer and clerical support"
     },
     {
       "company": "CVS Pharmacy",
       "position": "Pharmacy Technician",
       "startDate": "2023-12",
-      "endDate": "2025-02"
+      "endDate": "2025-02",
+      "summary": "Handled and processed patient prescriptions"
     }
   ],
   "awards": [
     {
       "title": "Provost Achievement Scholarship",
       "date": "2024 - Present",
-      "awarder": "University of Hawaii at Manoa"
+      "awarder": "UH Manoa",
+      "summary": "Selective, higher-tier merit scholarship recognizing academic excellence and community impact."
     },
     {
       "title": "Manoa Academic Merit Scholarship",
       "date": "2024",
-      "awarder": "University of Hawaii at Manoa"
+      "awarder": "UH Manoa",
+      "summary": "Awarded based on excellent academic performance and maintaining a GPA of 3.6 or higher."
     }
   ],
   "references": [
