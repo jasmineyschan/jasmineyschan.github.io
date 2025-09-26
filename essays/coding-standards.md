@@ -10,7 +10,7 @@ labels:
   - Coding
 ---
 
-<img width="250px" class="rounded float-start pe-4" src="../img/codingstandards/coding-checklist.png">
+<img width="275px" class="rounded float-start pe-4" src="../img/codingstandards/coding-checklist.png">
 
 Coding standards are guidelines that aim to improve the quality of your code by making it readable and promoting good programming practices. This is comparable to writing, in the sense that punctuation, grammar, formatting, and the quality of your handwriting can affect a reader’s experience. Similar to how using punctuation and splitting up long paragraphs can make an essay easier to read, in programming, following proper indentation, spacing, and meaningful variable names provides structure and clarity. 
 
