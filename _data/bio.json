@@ -9,7 +9,8 @@
     "summary": "I am studying for a B.A. in Information and Computer Sciences at the University of Hawaii at Manoa. I expect to graduate in May 2028.",
     "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "jasmineyschan", "url": "http://github.com/jasmineyschan" }
+      { "network": "github", "username": "jasmineyschan", "url": "http://github.com/jasmineyschan" },
+      { "network": "linkedin", "username": "jysc", "url": "https://www.linkedin.com/in/jysc" }
     ]
   },
   "interests": [
