@@ -17,6 +17,7 @@ Over the past week, I have been working with HTML, CSS, and Bootstrap 5. After g
 
 In my last assignment for my software engineering class, I had to rebuild a web page using Bootstrap 5. The web page that I decided on was the [Capital One](https://www.capitalone.com/) home page. Initially, I thought that it looked like a simple enough web page; however, as I was building it, I realized that I might have underestimated its complexity, seeing how many different sections it had. Going through this practice assignment, I learned a lot about the different capabilities of containers in Bootstrap, which I found very useful in structuring each portion of the web page. Despite the struggle with trying to align every little element to the original page, I found this to be a fun exercise. Here are some screenshots comparing the original Capital One web page to my recreation:
 
+<br>
 <div class="text-center">
     <img height="250px" class="pe-4" src="../img/webpage/original1.png">
     <img height="250px" src="../img/webpage/recreation1.png">
