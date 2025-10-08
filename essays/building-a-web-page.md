@@ -19,14 +19,15 @@ In my last assignment for my software engineering class, I had to rebuild a web 
 
 <br>
 <div class="text-center">
-    <img height="250px" class="pe-4" src="../img/webpage/original1.png">
-    <img height="250px" src="../img/webpage/recreation1.png">
-    <hr>
-    <img height="250px" class="pe-4" src="../img/webpage/original2.png">
-    <img height="250px" src="../img/webpage/recreation2.png">
-    <hr>
-    <img height="250px" class="pe-4" src="../img/webpage/original3.png">
-    <img height="250px" src="../img/webpage/recreation3.png">
+  ###Original vs Recreation
+  <img height="275px" class="pe-5" src="../img/webpage/original1.png">
+  <img height="275px" src="../img/webpage/recreation1.png">
+  <hr>
+  <img height="275px" class="pe-5" src="../img/webpage/original2.png">
+  <img height="275px" src="../img/webpage/recreation2.png">
+  <hr>
+  <img height="275px" class="pe-5" src="../img/webpage/original3.png">
+  <img height="275px" src="../img/webpage/recreation3.png">
 </div>
 
 <br>
