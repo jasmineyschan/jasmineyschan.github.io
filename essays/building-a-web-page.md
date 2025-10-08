@@ -19,13 +19,13 @@ In my last assignment for my software engineering class, I had to rebuild a web 
 
 <div class="text-center">
   <h3>Original v. Recreation</h3>
-  <div class="pe-4"><img height="275px" src="../img/webpage/original1.png" style="border: 1px solid gray;"></div>
+  <img height="275px" src="../img/webpage/original1.png" style="border: 1px solid gray;">
   <img height="275px" src="../img/webpage/recreation1.png" style="border: 1px solid gray;">
   <hr>
-  <div class="pe-4"><img height="275px" src="../img/webpage/original2.png" style="border: 1px solid gray;"></div>
+  <img height="275px" src="../img/webpage/original2.png" style="border: 1px solid gray;">
   <img height="275px" src="../img/webpage/recreation2.png" style="border: 1px solid gray;">
   <hr>
-  <div class="pe-4"><img height="275px" src="../img/webpage/original3.png" style="border: 1px solid gray;"></div>
+  <img height="275px" src="../img/webpage/original3.png" style="border: 1px solid gray;">
   <img height="275px" src="../img/webpage/recreation3.png" style="border: 1px solid gray;">
 </div>
 
