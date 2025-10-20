@@ -4,7 +4,7 @@ type: essay
 title: "codingStandards"
 # All dates must be YYYY-MM-DD format!
 date: 2025-09-25
-published: draft
+draft: true
 labels:
   - ESLint
   - Coding
