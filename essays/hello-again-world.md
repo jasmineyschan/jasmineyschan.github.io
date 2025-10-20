@@ -4,7 +4,7 @@ type: essay
 title: "Hello Again, World "
 # All dates must be YYYY-MM-DD format!
 date: 2025-09-11
-published: true
+published: draft
 labels:
   - TypeScript
   - Learning
