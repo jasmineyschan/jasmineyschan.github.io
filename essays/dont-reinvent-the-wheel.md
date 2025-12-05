@@ -6,9 +6,7 @@ title: "Don't reinvent the wheel"
 date: 2025-12-04
 published: true
 labels:
-  - HTML
-  - CSS
-  - Bootstrap 5
+  - Design Patterns
 ---
 
 Throughout the software development process, there are often recurring problems that you may come across. Rather than constantly reimplementing a solution for each problem, you can use reuse design patterns to solve these problems. In addition to optimizing the software development process, design patterns are well-tested approaches that can make your code more readable to you and other developers, as well as easier to maintain. 
@@ -31,5 +29,7 @@ export const prisma =
 
 if (process.env.NODE_ENV !== 'production') globalForPrisma.prisma = prisma;
 ```
+
+<img width="200px" class="rounded float-start pe-4" src="../img/wheel/wheel.jpg">
 
 As the saying goes, don’t reinvent the wheel. This is emphasized in software development as reusing code not only saves time, but makes the overall code cleaner and easy to follow.
