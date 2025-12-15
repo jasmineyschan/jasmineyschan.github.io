@@ -9,9 +9,9 @@ labels:
   - Design Patterns
 ---
 
-### Design Patterns
-
 <img width="200px" class="rounded float-end ps-4" src="../img/wheel/wheel.jpg">
+
+### Design Patterns
 
 Throughout the software development process, there are often recurring problems that you may come across. Rather than constantly reimplementing a solution for each problem, you can use reuse design patterns to solve these problems. In addition to optimizing the software development process, design patterns are well-tested approaches that can make your code more readable to you and other developers, as well as easier to maintain. 
 
