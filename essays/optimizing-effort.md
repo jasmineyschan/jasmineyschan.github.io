@@ -9,7 +9,7 @@ labels:
   - Effort Estimation
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/effort/effort.png">
+<img width="100px" class="rounded float-start pe-4" src="../img/effort/effort.png">
 
 The final project for my software engineering class consisted of working in a group to develop an application geared towards the UH community. Having various moving parts to the development process and the need to organize tasks amongst the team, we documented our planning and effort estimation from start to finish. Our effort estimation involved first describing an issue, estimating the amount of effort required to complete it, then completing the issue and recording both the actual coding effort and non-coding effort. When recording my actual effort spent, I took the rudimentary approach of taking note of when I began an issue and when I completed it. Overall, I believe that my record of actual effort is likely not accurate, as I “eyeballed” it. For more accurate data, I would definitely consider using a timer extension on VSCode. Throughout this process, I found that my estimates were often far off, especially for issues that seemed to grow into bigger issues. Despite this, I did find this action of estimating effort helpful as it forced me to think about the various tasks required for an issue, as well as how an issue may be related to a previous task I may have done.
 
