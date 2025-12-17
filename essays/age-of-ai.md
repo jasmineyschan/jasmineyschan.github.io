@@ -11,51 +11,53 @@ labels:
 ---
 
 <div class="text-center">
-  <img width="700px" style="text-align:center" src="../img/ai/ai.jpg">
+  <img width="500px" style="text-align:center" src="../img/ai/ai.jpg">
 </div>
+
+<br />
 
 For so long I have begun many essays with the same old statement that technology is becoming an indispensable, everyday tool. Today, that’s not such an interesting line anymore, and it has now turned into the line that AI is becoming a normal occurrence. At the rate that AI is growing and spreading, it has taken the position of what the internet was twenty years ago. This is especially apparent in tech spaces and jobs, and in particular, software engineering. 
 
 ### Personal Experience with AI
 With the rise of AI, it’s important to be responsible and ethical in your usage. Throughout my software engineering course, I have found through my personal experience that AI is something that I can’t avoid using and that I shouldn’t avoid using; however, it is also a tool that I need to be careful with. Initially, at the start of the course, I tried my best to not use AI for the experience and in-class WODs. As the course progressed and the assignments became increasingly time-consuming, I realized that it would be in my best interest to start utilizing AI for certain parts of the class. For each of the following course elements, here are examples of how I used AI:
 
-#### 1. Experience WODs
+##### 1. Experience WODs
 Asking for help on unclear instructions. For example, I might have pasted a portion of the instructions into the chat and asked “should I do x first?”
 
-#### 2. In-class Practice WODs
+##### 2. In-class Practice WODs
 Asking for help on implementing a certain requirement, for example, making a navbar collapsable. Since the practice WODs were technically not restricted in time, I did feel less obligation to use AI compared to the regular in-class WODs
 
-#### 3. In-class WODs
+##### 3. In-class WODs
 Same as the practice WODs, asking for help on implementing a certain requirement.
 
-#### 4. Essays
+##### 4. Essays
 I did not use AI for this because many of the essays were reflections and I felt that these required my own thinking
 
-#### 5. Final project
+##### 5. Final project
 Asking for help implementing certain functions, fixing issues, and generating default data. For example, for my project’s default data, I asked CoPilot, “Can you fill out the default data for the Database Items in config/settings.development.json?” I found this helpful so that I could spend my time on the actual application rather than thinking about trivial default data to add.
 
-#### 6. Learning a concept / tutorial
+##### 6. Learning a concept / tutorial
 I often used AI for this when instructions were unclear or incomplete
 
-#### 7. Answering a question in class or in Discord
+##### 7. Answering a question in class or in Discord
 I sometimes used AI for this when my professor would ask us a question in class
 
-#### 8. Asking or answering a smart-question
+##### 8. Asking or answering a smart-question
 I sometimes used AI for this if I had a question.
 
-#### 9. Coding example
+##### 9. Coding example
 I sometimes used AI for examples on how to implement something, for example if I wanted to add a table or field to my database, I might have asked how I could do that in my schema
 
-#### 10. Explaining code
+##### 10. Explaining code
 I have often asked AI for help explaining code, especially when a new template is provided to us or when I ask for help implementing something and the AI generates code that I don’t understand.
 
-#### 11. Writing code
+##### 11. Writing code
 I have asked for help with writing code, for example, I have asked CoPilot to implement a feature for my final project.
 
-#### 12. Documenting code
+##### 12. Documenting code
 I did not use AI for this as I prefer to write my own comments. I think writing my own documentation also helps me better understand the code.
 
-#### 13. Quality assurance
+##### 13. Quality assurance
 I have often used AI to help fix code for me, especially with ESLint errors as those issues can be tedious to go through.
 
 ### Impact on Learning and Understanding
