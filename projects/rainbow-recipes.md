@@ -22,20 +22,16 @@ summary: "A Next.js web application I developed with my team for my software eng
 * **Project home page:** [rainbow-recipes.github.io](https://rainbow-recipes.github.io/)
 * **Team members:** [Ievgen Borovenskyi](https://github.com/ievgen-maker), [Jasmine Chan](https://github.com/jasmineyschan), [Tylor Nadamoto Beller](https://github.com/tylornb), [Megan Wong ](https://github.com/mewong21)
 
-###### **Problem**
+**Problem**: *College students often have limited kitchen supplies and may lack basic cooking skills. With busy school schedules and part-time work, they have little time to not only learn and prepare meals, but to go out and buy groceries. As a result, it’s easy to fall into the habit of eating out or even forgetting to eat.*
 
-*College students often have limited kitchen supplies and may lack basic cooking skills. With busy school schedules and part-time work, they have little time to not only learn and prepare meals, but to go out and buy groceries. As a result, it’s easy to fall into the habit of eating out or even forgetting to eat.*
-
-###### **Solution**
-
-*Rainbow Recipes aims to solve this issue, targeting students at UH Mānoa, by providing a system that students can use to learn or share quick, simple, and easy to prepare recipes:*
+**Solution**: *Rainbow Recipes aims to solve this issue, targeting students at UH Mānoa, by providing a system that students can use to learn or share quick, simple, and easy to prepare recipes:*
 * *Uses minimal kitchen facilities and supplies.*
 * *Ingredients are available within walking distance of UH.*
 * *Suits local taste.*
 * *Can be filtered via dietary restrictions (gluten-free, vegan, etc).*
 * *Has an estimated cost per serving, estimated number of servings, and estimated prep-time.*
 
-<hr class="my-3">
+<hr class="my-4">
 
 ### My Contribution
 
@@ -92,7 +88,7 @@ The Vendors page displays all the vendors who have established their store on th
   <img width="800" style="border-radius: 5px; box-shadow: 0px 4px 16px lightgray; margin: 10px 0 10px 0;" src="../img/rainbowrecipes/rr-vendors.png" />
 </div>
 
-<hr class="my-3">
+<hr class="my-4">
 
 ### Outcome
 
