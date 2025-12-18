@@ -12,9 +12,7 @@ labels:
   - Agile Project Management
 ---
 
-<div class="text-center">
-  <img width="500px" style="text-align:center" src="../img/web/web.webp">
-</div>
+<img width="250px" class="rounded float-end ps-4" src="../img/web/web.webp">
 
 Throughout my software engineering course, I have learned about various fundamental concepts including open source software development, configuration management, functional programming, development environments, coding standards, ui frameworks, agile project management, design patterns, and ethics. Although these are significant for web application development, these concepts can also be generalized and applied to projects in different contexts. For example:
 
