@@ -35,7 +35,7 @@ summary: "A Next.js web application I developed with my team for my software eng
 * *Can be filtered via dietary restrictions (gluten-free, vegan, etc).*
 * *Has an estimated cost per serving, estimated number of servings, and estimated prep-time.*
 
-<hr>
+<hr class="my-3">
 
 ### My Contribution
 
@@ -86,14 +86,14 @@ The My Store page is specific to users who have been approved as vendors. Here, 
 
 ###### **Vendors Page**
 
-The Vendors page displays all the vendors who have established their store on the site. A user may click on a vendor's card and it will redirect to that vendor's individual store page.
+The Vendors page displays all the vendors who have established their store on the site. A user may click on a vendor's card to go to that vendor's individual store page.
 
 <div class="text-center">
   <img width="800" style="border-radius: 5px; box-shadow: 0px 4px 16px lightgray; margin: 10px 0 10px 0;" src="../img/rainbowrecipes/rr-vendors.png" />
 </div>
 
-<hr>
+<hr class="my-3">
 
-### Takeaways
+### Outcome
 
 Although this project is techinically "finished", there are definitely many improvements and additional functions that could still be implemented. Despite this, I believe that my team and I were successful in developing a user-friendly application that caters towards the UH community. From this experience, I gained first-hand insight into the software engineering life cycle and challenges that a software engineer might encounter. While this was a lengthy and in-depth project, I had a lot of fun figuring out works and what doesn't. Additionally, with the time constraints of this class being a semester long course, starting off with a template was extremely helpful. During development, I didn't quite know exactly how to implement everything, but I had the basic idea. Having a starting point and building off of that aided my skill development and helped me learn along the way.
