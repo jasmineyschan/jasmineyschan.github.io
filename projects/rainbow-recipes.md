@@ -12,11 +12,9 @@ labels:
 summary: "A Next.js web application I developed with my team for my software engineering class."
 ---
 
-<div class="text-center">
+<div class="text-center my-3">
   <img width="800" style="border-radius: 5px; box-shadow: 0px 4px 16px lightgray; margin: 10px 0 10px 0;" src="../img/rainbowrecipes/rr-landing.png" />
 </div>
-
-<br />
 
 ### Rainbow Recipes Overview
 
@@ -36,6 +34,8 @@ summary: "A Next.js web application I developed with my team for my software eng
 * *Suits local taste.*
 * *Can be filtered via dietary restrictions (gluten-free, vegan, etc).*
 * *Has an estimated cost per serving, estimated number of servings, and estimated prep-time.*
+
+<hr>
 
 ### My Contribution
 
@@ -91,6 +91,8 @@ The Vendors page displays all the vendors who have established their store on th
 <div class="text-center">
   <img width="800" style="border-radius: 5px; box-shadow: 0px 4px 16px lightgray; margin: 10px 0 10px 0;" src="../img/rainbowrecipes/rr-vendors.png" />
 </div>
+
+<hr>
 
 ### Takeaways
 
